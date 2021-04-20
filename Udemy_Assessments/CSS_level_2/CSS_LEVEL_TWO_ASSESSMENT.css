@@ -1,0 +1,12 @@
+h1{font-family: 'Courier New', Courier;text-align: center; }
+
+/* CSS Features for the box as a whole*/
+.t{
+    margin: auto;
+}
+.box{
+    height: 400px;
+    width: 150px;
+    border: 6px solid white;
+}
+
